@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 /**
  * 二分插入排序
- *     查找比较花费的代价比交换大时，适合用二分法,
+ *     查找比较花费的代价比交换大时，适合用二分法
  */
 public class BanaryInsertSort {
 
